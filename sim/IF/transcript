@@ -1,0 +1,38 @@
+# Reading E:/modeltech64_10.4/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# OpenFile F:/3180105910_lab30/sim/IF/IF.mpf
+# Loading project IF
+vsim -novopt work.IF_tb
+# vsim -gui F:\3180105910_lab30\sim\IF\IF.mpf 
+# Start time: 19:19:32 on Jan 05,2021
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.IF_tb
+# Loading work.IF
+# Loading work.InstructionROM
+# Loading work.adder_32bits
+# Loading work.adder_4bits
+# Loading work.adder_32bits_component
+# Loading work.mux_2to1
+# Loading work.MUX2to1
+# Loading work.Dtrigger
+add wave sim:/IF_tb/*
+run -all
+# ** Note: $stop    : F:/3180105910_lab30/src/IF_tb.v(48)
+#    Time: 2300 ns  Iteration: 0  Instance: /IF_tb
+# Break in Module IF_tb at F:/3180105910_lab30/src/IF_tb.v line 48
+# End time: 19:41:55 on Jan 05,2021, Elapsed time: 0:22:23
+# Errors: 0, Warnings: 1

@@ -1,0 +1,64 @@
+F:/3180105910_lab30/src/adder_32bits.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/adder_32bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits
+
+Top level modules:
+	adder_32bits
+
+} {} {}} F:/3180105910_lab30/src/IF.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/IF.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module IF
+
+Top level modules:
+	IF
+
+} {} {}} F:/3180105910_lab30/src/mux_2to1.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/mux_2to1.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux_2to1
+
+Top level modules:
+	mux_2to1
+
+} {} {}} F:/3180105910_lab30/src/InstructionROM.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/InstructionROM.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module InstructionROM
+
+Top level modules:
+	InstructionROM
+
+} {} {}} F:/3180105910_lab30/src/Dtrigger.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/Dtrigger.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Dtrigger
+
+Top level modules:
+	Dtrigger
+
+} {} {}} F:/3180105910_lab30/src/MUX2to1.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/MUX2to1.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MUX2to1
+
+Top level modules:
+	MUX2to1
+
+} {} {}} F:/3180105910_lab30/src/adder_32bits_component.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/adder_32bits_component.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits_component
+
+Top level modules:
+	adder_32bits_component
+
+} {} {}} F:/3180105910_lab30/src/IF_tb.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/IF_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module IF_tb
+
+Top level modules:
+	IF_tb
+
+} {} {}} F:/3180105910_lab30/src/adder_4bits.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/adder_4bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bits
+
+Top level modules:
+	adder_4bits
+
+} {} {}}

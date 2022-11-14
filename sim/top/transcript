@@ -1,0 +1,65 @@
+# Reading E:/modeltech64_10.4/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# OpenFile F:/3180105910_lab30/sim/top/top.mpf
+# Loading project top
+vsim -L simprims_ver -L unisims_ver -voptargs=+acc work.Risc5CPU_tb_v
+# vsim -gui F:\3180105910_lab30\sim\top\top.mpf 
+# Start time: 20:13:30 on Jan 05,2021
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# 
+# Loading work.Risc5CPU_tb_v(fast)
+# Loading work.Risc5CPU(fast)
+# Loading work.IF(fast)
+# Loading work.InstructionROM(fast)
+# Loading work.adder_32bits(fast)
+# Loading work.adder_4bits(fast)
+# Loading work.adder_32bits_component(fast)
+# Loading work.mux_2to1(fast)
+# Loading work.MUX2to1(fast)
+# Loading work.Dtrigger(fast)
+# Loading work.ID(fast)
+# Loading work.Regfile(fast)
+# Loading work.Decode(fast)
+# Loading work.Dtrigger_n(fast)
+# Loading work.EX(fast)
+# Loading work.ALU(fast)
+# Loading work.MUX16to1(fast)
+# Loading work.MUX4to1(fast)
+# Loading work.Forwarding(fast)
+# Loading work.Dtrigger_n(fast__1)
+# Loading work.DataMemory(fast)
+# Loading work.DataMemory_dist_mem_gen_v8_0_12(fast)
+# Loading simprims_ver.GND(fast)
+# Loading work.DataMemory_dist_mem_gen_v8_0_12_synth(fast)
+# Loading work.DataMemory_spram(fast)
+# Loading simprims_ver.FDRE(fast)
+# Loading simprims_ver.RAM64X1S(fast)
+# Loading simprims_ver.RAM64X1S(fast__1)
+# Loading simprims_ver.RAM64X1S(fast__2)
+# Loading simprims_ver.RAM64X1S(fast__3)
+# Loading simprims_ver.RAM64X1S(fast__4)
+# Loading simprims_ver.RAM64X1S(fast__5)
+# Loading simprims_ver.RAM64X1S(fast__6)
+# Loading work.Dtrigger_n(fast__2)
+# Loading work.glbl(fast)
+add wave sim:/Risc5CPU_tb_v/*
+run -all
+# ** Note: $stop    : F:/3180105910_lab30/src/Risc5CPU_tb.v(39)
+#    Time: 2251 ns  Iteration: 0  Instance: /Risc5CPU_tb_v
+# Break in Module Risc5CPU_tb_v at F:/3180105910_lab30/src/Risc5CPU_tb.v line 39
+# Causality operation skipped due to absence of debug database file
+# End time: 20:17:05 on Jan 05,2021, Elapsed time: 0:03:35
+# Errors: 0, Warnings: 1

@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/3180105910_lab30/sim/ALU
+vDecode
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ZEc=b^K_`1`niP3N8n:9E0
+IlfEQ2GbP19LCZ5Y::S@mZ3
+Z1 dF:/3180105910_lab30/sim/Decode
+w1609682959
+8F:/3180105910_lab30/src/Decode.v
+FF:/3180105910_lab30/src/Decode.v
+L0 6
+Z2 OL;L;10.4;61
+!s108 1609847848.537000
+!s107 F:/3180105910_lab30/src/Decode.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/3180105910_lab30/src/Decode.v|
+!i113 0
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@decode
+vDecode_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 `jP:o7LKS7X=54WI^kcYi3
+I38VGM2SF1JMo3AiWlP_Bl1
+R1
+w1608987322
+8F:/3180105910_lab30/src/Decode_tb.v
+FF:/3180105910_lab30/src/Decode_tb.v
+L0 6
+R2
+!s108 1609847848.752000
+!s107 F:/3180105910_lab30/src/Decode_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/3180105910_lab30/src/Decode_tb.v|
+!i113 0
+R3
+n@decode_tb

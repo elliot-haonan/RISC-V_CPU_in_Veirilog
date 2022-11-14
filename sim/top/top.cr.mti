@@ -1,0 +1,153 @@
+F:/3180105910_lab30/src/MUX4to1.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/MUX4to1.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MUX4to1
+
+Top level modules:
+	MUX4to1
+
+} {} {}} F:/3180105910_lab30/src/ALU.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/ALU.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} F:/3180105910_lab30/src/Risc5CPU_tb.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/Risc5CPU_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Risc5CPU_tb_v
+
+Top level modules:
+	Risc5CPU_tb_v
+
+} {} {}} F:/3180105910_lab30/src/MUX16to1.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/MUX16to1.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MUX16to1
+
+Top level modules:
+	MUX16to1
+
+} {} {}} F:/3180105910_lab30/src/ID.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/ID.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} F:/3180105910_lab30/src/adder_4bits.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/adder_4bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bits
+
+Top level modules:
+	adder_4bits
+
+} {} {}} F:/3180105910_lab30/src/DataMemory_sim_netlist.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/DataMemory_sim_netlist.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module DataMemory
+-- Compiling module DataMemory_dist_mem_gen_v8_0_12
+-- Compiling module DataMemory_dist_mem_gen_v8_0_12_synth
+-- Compiling module DataMemory_spram
+-- Compiling module glbl
+
+Top level modules:
+	DataMemory
+	glbl
+
+} {} {}} F:/3180105910_lab30/src/EX.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/EX.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module EX
+
+Top level modules:
+	EX
+
+} {} {}} F:/3180105910_lab30/src/adder_32bits.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/adder_32bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits
+
+Top level modules:
+	adder_32bits
+
+} {} {}} F:/3180105910_lab30/src/IF.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/IF.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module IF
+
+Top level modules:
+	IF
+
+} {} {}} F:/3180105910_lab30/src/Dtrigger.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/Dtrigger.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Dtrigger
+
+Top level modules:
+	Dtrigger
+
+} {} {}} F:/3180105910_lab30/src/adder_32bits_component.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/adder_32bits_component.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits_component
+
+Top level modules:
+	adder_32bits_component
+
+} {} {}} F:/3180105910_lab30/src/InstructionROM.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/InstructionROM.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module InstructionROM
+
+Top level modules:
+	InstructionROM
+
+} {} {}} F:/3180105910_lab30/src/glbl.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/glbl.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module glbl
+
+Top level modules:
+	glbl
+
+} {} {}} F:/3180105910_lab30/src/Forwarding.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/Forwarding.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Forwarding
+
+Top level modules:
+	Forwarding
+
+} {} {}} F:/3180105910_lab30/src/Decode.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/Decode.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Decode
+
+Top level modules:
+	Decode
+
+} {} {}} F:/3180105910_lab30/src/Dtrigger_n.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/Dtrigger_n.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Dtrigger_n
+
+Top level modules:
+	Dtrigger_n
+
+} {} {}} F:/3180105910_lab30/src/Risc5CPU.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/Risc5CPU.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Risc5CPU
+
+Top level modules:
+	Risc5CPU
+
+} {} {}} F:/3180105910_lab30/src/dist_mem_gen_v8_0.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/dist_mem_gen_v8_0.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dist_mem_gen_v8_0_12
+
+Top level modules:
+	dist_mem_gen_v8_0_12
+
+} {} {}} F:/3180105910_lab30/src/mux_2to1.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/mux_2to1.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux_2to1
+
+Top level modules:
+	mux_2to1
+
+} {} {}} F:/3180105910_lab30/src/MUX2to1.v {1 {vlog -work work -vopt -stats=none F:/3180105910_lab30/src/MUX2to1.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MUX2to1
+
+Top level modules:
+	MUX2to1
+
+} {} {}}
