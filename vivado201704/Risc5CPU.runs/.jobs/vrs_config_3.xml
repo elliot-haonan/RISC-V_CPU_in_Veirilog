@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="DataMemory_synth_1" LaunchDir="F:/3180105910_lab30/vivado201704/Risc5CPU.runs/DataMemory_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+</Runs>
+
